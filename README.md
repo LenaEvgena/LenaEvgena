@@ -106,13 +106,16 @@ Here are some ideas to get you started:
 ### Artifacts
 
 <p> 
+<ul>
+<li><a href="https://www.postman.com/winter-water-459827/workspace/public-workspace/overview">REST and SOAP API testing via Postman</a></li>
+</ul>
 <ul>Front-end projects
-<li><a href="https://lenaevgena.github.io/Momentum/momentum/index.html">Momentum: HTML5, CSS3, ES6, JS, API, modules</a></li>
-<li><a href="https://lenaevgena.github.io/Ostrouh_Project_JSModule/">Memory Game: HTML5, CSS3, ES6, JS, OOP, modules, AJAX, promises</a></li>
-<li><a href="https://lenaevgena.github.io/Museum/museum-dom/">Museum: HTML5, CSS3, ES6, JS, SASS, SVG, Pixel Perfect</a></li>
-<li><a href="https://lenaevgena.github.io/Shelter/pages/main/index.html">Shelter: HTML5, CSS3, ES6, JS, SASS, SVG, Pixel Perfect</a></li>
-<li><a href="https://lenaevgena.github.io/cssMemSlider/cssMemSlider/">CSS Slider: HTML and CSS only</a></li>
-<li><a href="https://github.com/LenaEvgena/Clocks">More: HTML5, CSS3, ES6, JS, SVG, Canvas</a></li>
+<li><a href="https://lenaevgena.github.io/Momentum/momentum/index.html" target="_blank">Momentum: HTML5, CSS3, ES6, JS, API, modules</a></li>
+<li><a href="https://lenaevgena.github.io/Ostrouh_Project_JSModule/" target="_blank">Memory Game: HTML5, CSS3, ES6, JS, OOP, modules, AJAX, promises</a></li>
+<li><a href="https://lenaevgena.github.io/Museum/museum-dom/" target="_blank">Museum: HTML5, CSS3, ES6, JS, SASS, SVG, Pixel Perfect</a></li>
+<li><a href="https://lenaevgena.github.io/Shelter/pages/main/index.html" target="_blank">Shelter: HTML5, CSS3, ES6, JS, SASS, SVG, Pixel Perfect</a></li>
+<li><a href="https://lenaevgena.github.io/cssMemSlider/cssMemSlider/" target="_blank">CSS Slider: HTML and CSS only</a></li>
+<li><a href="https://github.com/LenaEvgena/Clocks" target="_blank">More: HTML5, CSS3, ES6, JS, SVG, Canvas</a></li>
 </ul>
 </p>
 
@@ -120,9 +123,9 @@ Here are some ideas to get you started:
 
 <h3>Get in touch with me</h3>
 <p>
-<a href= "https://www.linkedin.com/in/alena-astravukh/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
-<a href= "mailto:alenaastravukh@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
-<a href= "skype:live:.cid.1a40e02acedb98da?chat"><img src="https://img.icons8.com/?size=100&id=63204&format=png&color=000000" width="40" height="40" alt="skype"/></a>
-<a href= "https://wa.me/48575399753"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="40" height="40" alt="watsapp"/></a>
-<a href= "https://t.me/La_Ahl"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+<a href="https://www.linkedin.com/in/alena-astravukh/" target="_blank"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href="mailto:alenaastravukh@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+<a href="#" onclick="window.location.href='skype:live:.cid.1a40e02acedb98da?chat'; return false;" target="_blank"><img src="https://img.icons8.com/?size=100&id=63204&format=png&color=000000" width="40" height="40" alt="skype"/></a>
+<a href="https://wa.me/48575399753" target="_blank"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="40" height="40" alt="watsapp"/></a>
+<a href="https://t.me/La_Ahl" target="_blank"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 </p>
