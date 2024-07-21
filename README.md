@@ -98,8 +98,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  
-</div>
+  </div>
 
 ---
 
@@ -108,6 +107,7 @@ Here are some ideas to get you started:
 <p> 
 <ul>
 <li><a href="https://www.postman.com/winter-water-459827/workspace/public-workspace/overview">REST and SOAP API testing via Postman</a></li>
+<li><a href="https://github.com/LenaEvgena/bash_commands">Bash commands</a></li>
 </ul>
 <ul>Front-end projects
 <li><a href="https://lenaevgena.github.io/Momentum/momentum/index.html" target="_blank">Momentum: HTML5, CSS3, ES6, JS, API, modules</a></li>
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 <p>
 <a href="https://www.linkedin.com/in/alena-astravukh/" target="_blank"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href="mailto:alenaastravukh@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
-<a href="#" onclick="window.location.href='skype:live:.cid.1a40e02acedb98da?chat'; return false;" target="_blank"><img src="https://img.icons8.com/?size=100&id=63204&format=png&color=000000" width="40" height="40" alt="skype"/></a>
+<a href="skype:live:.cid.1a40e02acedb98da?chat" target="_blank"><img src="https://img.icons8.com/?size=100&id=63204&format=png&color=000000" width="40" height="40" alt="skype"/></a>
 <a href="https://wa.me/48575399753" target="_blank"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="40" height="40" alt="watsapp"/></a>
 <a href="https://t.me/La_Ahl" target="_blank"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 </p>
