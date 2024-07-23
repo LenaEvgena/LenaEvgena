@@ -10,7 +10,7 @@
 <p> My name is Elena and I am a Software QA Engineer.</p>
 <p>Experienced web application developer with over two and a half years of hands-on experience in designing and building dynamic and responsive web applications, application testing.</p>
 <p>Proficient in creating and executing test cases, identifying defects, and ensuring high-quality software delivery. Passionate about maintaining high standards of software quality and committed to continuous learning.</p>
-📙 Check out my <a href="https://lenaevgena.github.io/HTML-CSS-FE-Course/CV/">CV</a>
+📙 Check out my <a href="https://drive.google.com/drive/folders/1HjeA9takpStWF94vtI9ibICwtR0eEReC?usp=drive_link">CV</a>
 
 ---
 
@@ -111,6 +111,7 @@
 <li><a href="https://lenaevgena.github.io/Ostrouh_Project_JSModule/" target="_blank">Memory Game: HTML5, CSS3, ES6, JS, OOP, modules, AJAX, promises</a></li>
 <li><a href="https://lenaevgena.github.io/Museum/museum-dom/" target="_blank">Museum: HTML5, CSS3, ES6, JS, SASS, SVG, Pixel Perfect</a></li>
 <li><a href="https://lenaevgena.github.io/Shelter/pages/main/index.html" target="_blank">Shelter: HTML5, CSS3, ES6, JS, SASS, SVG, Pixel Perfect</a></li>
+<li><a href="https://lenaevgena.github.io/HTML-CSS-FE-Course/CV/" target="_blank">My CV: HTML5, CSS3, ES6, JS</a></li>
 <li><a href="https://lenaevgena.github.io/cssMemSlider/cssMemSlider/" target="_blank">CSS Slider: HTML and CSS only</a></li>
 <li><a href="https://github.com/LenaEvgena/Clocks" target="_blank">More: HTML5, CSS3, ES6, JS, SVG, Canvas</a></li>
 </ul>
