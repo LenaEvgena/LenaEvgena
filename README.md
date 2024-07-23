@@ -123,8 +123,8 @@
 
 <p>
 <a href="https://www.linkedin.com/in/alena-astravukh/" target="_blank"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
-<a href="mailto:alenaastravukh@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
-<a href="skype:live:.cid.1a40e02acedb98da?chat" target="_blank"><img src="https://img.icons8.com/?size=100&id=63204&format=png&color=000000" width="40" height="40" alt="skype"/></a>
+<a href="mailto:alenaastravukh@gmail.com" type="email" target="_blank""><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+<!-- <a href="skype:live:.cid.1a40e02acedb98da?chat" target="_blank"><img src="https://img.icons8.com/?size=100&id=63204&format=png&color=000000" width="40" height="40" alt="skype"/></a> -->
 <a href="https://wa.me/48575399753" target="_blank"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="40" height="40" alt="watsapp"/></a>
 <a href="https://t.me/La_Ahl" target="_blank"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 </p>
