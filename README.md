@@ -109,11 +109,11 @@ Here are some ideas to get you started:
 <li><a href="https://www.postman.com/winter-water-459827/workspace/public-workspace/overview">REST and SOAP API testing via Postman</a></li>
 <li><a href="https://docs.google.com/document/d/1-4bMBxIbHUCJRpVKmgR3vik2609Hm4KT1zkAE5rFarI/edit?usp=drive_link">PostgreSQL queries and DB-views</a></li>
 <li><a href="https://drive.google.com/drive/folders/1vzveoe1FZ4XU3TEk9q_3nqllVNfhDJWp?usp=drive_link">Bug reports</a></li>
-<li><a href="">Test cases</a></li>
-<li><a href="">Check lists</a></li>
-<li><a href="">Test plans</a></li>
-<li><a href="">Test reports</a></li>
-<li><a href="">Replacing data with CharlesProxy</a></li>
+<li><a href="https://drive.google.com/drive/folders/1xXFzyZDSIa_HLX2gnUqQL-XOK7Y5t43C?usp=drive_link">Check lists</a></li>
+<li><a href="https://drive.google.com/drive/folders/1ndo9jNMjQO0cbFxYNHNG_Fg1eMbEN2NQ?usp=drive_link">Test cases</a></li>
+<li><a href="https://drive.google.com/drive/folders/1tAmyNjDEtfusSf9KVg0J-f6llcqLMGUd?usp=drive_link">Test plans</a></li>
+<li><a href="https://drive.google.com/drive/folders/1R4j4pN58tpWNGqJt_M0y7OAr-_i_BgwH?usp=drive_link">Test reports</a></li>
+<!-- <li><a href="">Replacing data with CharlesProxy</a></li>-->
 <li><a href="https://github.com/LenaEvgena/bash_commands">Bash commands</a></li>
 </ul>
 <ul>Front-end development
