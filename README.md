@@ -107,9 +107,11 @@ Here are some ideas to get you started:
 <p> 
 <ul>
 <li><a href="https://www.postman.com/winter-water-459827/workspace/public-workspace/overview">REST and SOAP API testing via Postman</a></li>
+<li><a href="https://docs.google.com/document/d/1-4bMBxIbHUCJRpVKmgR3vik2609Hm4KT1zkAE5rFarI/edit?usp=drive_link">PostgreSQL queries and DB-views</a></li>
+
 <li><a href="https://github.com/LenaEvgena/bash_commands">Bash commands</a></li>
 </ul>
-<ul>Front-end projects
+<ul>Front-end development
 <li><a href="https://lenaevgena.github.io/Momentum/momentum/index.html" target="_blank">Momentum: HTML5, CSS3, ES6, JS, API, modules</a></li>
 <li><a href="https://lenaevgena.github.io/Ostrouh_Project_JSModule/" target="_blank">Memory Game: HTML5, CSS3, ES6, JS, OOP, modules, AJAX, promises</a></li>
 <li><a href="https://lenaevgena.github.io/Museum/museum-dom/" target="_blank">Museum: HTML5, CSS3, ES6, JS, SASS, SVG, Pixel Perfect</a></li>
