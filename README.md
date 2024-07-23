@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About me:
 
-<img align="right"  marginLeft="10" width="350" src="https://www.zibtek.com/blog/content/images/2020/03/image-19.png"/>
+<img align="right" style="padding: 15px" width="350" src="https://www.zibtek.com/blog/content/images/2020/03/image-19.png"/>
 
 <p> My name is Elena and I am a Software QA Engineer.</p>
 <p>Experienced web application developer with over two and a half years of hands-on experience in designing and building dynamic and responsive web applications, application testing.</p>
