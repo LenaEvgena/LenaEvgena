@@ -8,7 +8,7 @@
 <img align="right" style="padding: 15px" width="350" src="https://www.zibtek.com/blog/content/images/2020/03/image-19.png"/>
 
 <p> My name is Elena and I am a Software QA Engineer.</p>
-<p>Experienced web application developer with over two and a half years of hands-on experience in designing and building dynamic and responsive web applications, application testing.</p>
+<p>Experienced web application developer with about three years of hands-on experience in designing and building dynamic and responsive web applications, application testing.</p>
 <p>Proficient in creating and executing test cases, identifying defects, and ensuring high-quality software delivery. Passionate about maintaining high standards of software quality and committed to continuous learning.</p>
 📙 Check out my <a href="https://drive.google.com/drive/folders/1HjeA9takpStWF94vtI9ibICwtR0eEReC?usp=drive_link">CV</a>
 
