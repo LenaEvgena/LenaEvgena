@@ -1,20 +1,11 @@
 <!--
 **LenaEvgena/LenaEvgena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <h2>Hey, lets find some bugs <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
 
 ### 👨‍💻 About me:
+
+<img align="right"  marginLeft="10" width="350" src="https://www.zibtek.com/blog/content/images/2020/03/image-19.png"/>
 
 <p> My name is Elena and I am a Software QA Engineer.</p>
 <p>Experienced web application developer with over two and a half years of hands-on experience in designing and building dynamic and responsive web applications, application testing.</p>
@@ -102,7 +93,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Artifacts
+### 📁 Artifacts
 
 <p> 
 <ul>
@@ -110,10 +101,9 @@ Here are some ideas to get you started:
 <li><a href="https://docs.google.com/document/d/1-4bMBxIbHUCJRpVKmgR3vik2609Hm4KT1zkAE5rFarI/edit?usp=drive_link">PostgreSQL queries and DB-views</a></li>
 <li><a href="https://drive.google.com/drive/folders/1vzveoe1FZ4XU3TEk9q_3nqllVNfhDJWp?usp=drive_link">Bug reports</a></li>
 <li><a href="https://drive.google.com/drive/folders/1xXFzyZDSIa_HLX2gnUqQL-XOK7Y5t43C?usp=drive_link">Check lists</a></li>
-<li><a href="https://drive.google.com/drive/folders/1ndo9jNMjQO0cbFxYNHNG_Fg1eMbEN2NQ?usp=drive_link">Test cases</a></li>
+<li><a href="https://drive.google.com/drive/folders/1ndo9jNMjQO0cbFxYNHNG_Fg1eMbEN2NQ?usp=drive_link">Test cases and trace matrix</a></li>
 <li><a href="https://drive.google.com/drive/folders/1tAmyNjDEtfusSf9KVg0J-f6llcqLMGUd?usp=drive_link">Test plans</a></li>
 <li><a href="https://drive.google.com/drive/folders/1R4j4pN58tpWNGqJt_M0y7OAr-_i_BgwH?usp=drive_link">Test reports</a></li>
-<!-- <li><a href="">Replacing data with CharlesProxy</a></li>-->
 <li><a href="https://github.com/LenaEvgena/bash_commands">Bash commands</a></li>
 </ul>
 <ul>Front-end development
@@ -128,7 +118,8 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>Get in touch with me</h3>
+### 📫 Get in touch with me
+
 <p>
 <a href="https://www.linkedin.com/in/alena-astravukh/" target="_blank"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href="mailto:alenaastravukh@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
